@@ -1,0 +1,2 @@
+# cpuminer-opt-win
+ 
